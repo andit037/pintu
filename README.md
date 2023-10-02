@@ -10,3 +10,4 @@ b. Git clone <br >
 c. Go to directory of project <br >
 d. npm install <br >
 e. npx wdio run ./wdio.conf.js <br >
+https://drive.google.com/file/d/19AJ2uyRgUz7dy3HkiEr9LfOpXMzBRVx5/view?usp=drive_link
